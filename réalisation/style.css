@@ -73,7 +73,12 @@ border: 1px solid black;
 a{
     text-decoration: none;  
     color: #000;
+    font-weight: bold;
+    font-size: 27px;
     
+}
+a:hover{
+    color: #fff;
 }
 img{
     width: 100px;
